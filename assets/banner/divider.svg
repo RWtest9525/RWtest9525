@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="presentation">
+<defs>
+<linearGradient id="c1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".6" stop-color="#22d3ee"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<linearGradient id="c2"><stop offset="0" stop-color="#ec4899" stop-opacity="0"/><stop offset=".6" stop-color="#a78bfa"/><stop offset="1" stop-color="#fff"/></linearGradient>
+</defs>
+<rect x="0" y="13.5" width="1000" height="1" fill="#64748b" opacity=".35"/>
+<rect y="12.5" height="3" width="320" rx="1.5" fill="url(#c1)"><animate attributeName="x" from="-320" to="1000" dur="4.5s" repeatCount="indefinite"/></rect>
+<rect y="12.5" height="3" width="240" rx="1.5" fill="url(#c2)" transform="translate(1000 0) scale(-1 1)"><animate attributeName="x" from="-240" to="1000" dur="6.5s" begin="-2s" repeatCount="indefinite"/></rect>
+<circle cx="500" cy="14" r="4" fill="none" stroke="#22d3ee" stroke-width="1.5"><animate attributeName="r" values="4;13" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<rect x="-5" y="-5" width="10" height="10" transform="translate(500 14) rotate(45)" fill="#0b1020" stroke="#22d3ee" stroke-width="2"><animate attributeName="stroke" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
