@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/header.svg" alt="Yash Vishal - Full-Stack Developer, Builder, Learner" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/header.svg" alt="Yash Vishal - Full-Stack Developer, Builder, Learner" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/logo.svg" alt="YV logo" width="110"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/logo.svg" alt="YV logo" width="110"/>
 
-<a href="https://github.com/RWtest9525">
+<a href="https://github.com/YashVishalDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Yash+Vishal+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Building+Reviews+World+App+%26+RW+Wallet;Learning+Python%2C+Java+%26+Marketing;Turning+ideas+into+shipped+products" alt="Typing animation"/>
 </a>
 
 <p>
-  <a href="https://github.com/RWtest9525"><img src="https://img.shields.io/badge/GitHub-RWtest9525-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/YashVishalDev"><img src="https://img.shields.io/badge/GitHub-YashVishalDev-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://portfolio-yashvishal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:reviewsworld01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/yash-vishal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,20 +17,20 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=RWtest9525&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/RWtest9525?label=Followers&logo=github&style=flat-square" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/RWtest9525?tab=repositories&label=Total%20Stars&style=flat-square" alt="Stars"/>
-  <img src="https://img.shields.io/github/repositories/RWtest9525?style=flat-square&label=Public%20Repos" alt="Public repos"/>
+  <img src="https://komarev.com/ghpvc/?username=YashVishalDev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/YashVishalDev?label=Followers&logo=github&style=flat-square" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/YashVishalDev?tab=repositories&label=Total%20Stars&style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/repositories/YashVishalDev?style=flat-square&label=Public%20Repos" alt="Public repos"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/terminal.svg" alt="Terminal: whoami" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/terminal.svg" alt="Terminal: whoami" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-about.svg" alt="About Me" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-about.svg" alt="About Me" width="100%"/>
 </div>
 
 I build practical web applications, automation tools and developer-focused projects while continuously learning new technologies.
@@ -55,12 +55,12 @@ I build practical web applications, automation tools and developer-focused proje
 
 </div>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-stack.svg" alt="Tech Stack" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-stack.svg" alt="Tech Stack" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/ticker.svg" alt="Technologies ticker" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/ticker.svg" alt="Technologies ticker" width="100%"/>
 
 <br/>
 
@@ -74,10 +74,10 @@ I build practical web applications, automation tools and developer-focused proje
 <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,postgres,docker,aws,git,linux,postman,figma&theme=dark" alt="Tools"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-projects.svg" alt="Featured Projects" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-projects.svg" alt="Featured Projects" width="100%"/>
 </div>
 
 Every badge below is fetched live from GitHub, so stars, language and last-commit date always match the real repository.
@@ -85,70 +85,70 @@ Every badge below is fetched live from GitHub, so stars, language and last-commi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/RWtest9525/RW_WALLET">RW Wallet</a></h3>
+      <h3>💰 <a href="https://github.com/YashVishalDev/RW_WALLET">RW Wallet</a></h3>
       <p>A Reviews World wallet project focused on managing application-related wallet functionality.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/RWtest9525/RW_WALLET?style=flat-square&logo=github" alt="Top language"/>
-        <img src="https://img.shields.io/github/stars/RWtest9525/RW_WALLET?style=flat-square&logo=github&color=yellow" alt="Stars"/>
-        <img src="https://img.shields.io/github/last-commit/RWtest9525/RW_WALLET?style=flat-square&logo=git&logoColor=white" alt="Last commit"/>
+        <img src="https://img.shields.io/github/languages/top/YashVishalDev/RW_WALLET?style=flat-square&logo=github" alt="Top language"/>
+        <img src="https://img.shields.io/github/stars/YashVishalDev/RW_WALLET?style=flat-square&logo=github&color=yellow" alt="Stars"/>
+        <img src="https://img.shields.io/github/last-commit/YashVishalDev/RW_WALLET?style=flat-square&logo=git&logoColor=white" alt="Last commit"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/RWtest9525/RW_playstore_Live_cheker">Play Store Live Checker</a></h3>
+      <h3>🔎 <a href="https://github.com/YashVishalDev/RW_playstore_Live_cheker">Play Store Live Checker</a></h3>
       <p>A Python-based project related to checking Play Store review and application information.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/RWtest9525/RW_playstore_Live_cheker?style=flat-square&logo=python&logoColor=white" alt="Top language"/>
-        <img src="https://img.shields.io/github/stars/RWtest9525/RW_playstore_Live_cheker?style=flat-square&logo=github&color=yellow" alt="Stars"/>
-        <img src="https://img.shields.io/github/last-commit/RWtest9525/RW_playstore_Live_cheker?style=flat-square&logo=git&logoColor=white" alt="Last commit"/>
+        <img src="https://img.shields.io/github/languages/top/YashVishalDev/RW_playstore_Live_cheker?style=flat-square&logo=python&logoColor=white" alt="Top language"/>
+        <img src="https://img.shields.io/github/stars/YashVishalDev/RW_playstore_Live_cheker?style=flat-square&logo=github&color=yellow" alt="Stars"/>
+        <img src="https://img.shields.io/github/last-commit/YashVishalDev/RW_playstore_Live_cheker?style=flat-square&logo=git&logoColor=white" alt="Last commit"/>
       </p>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-analytics.svg" alt="GitHub Analytics" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-analytics.svg" alt="GitHub Analytics" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/></td>
-    <td><img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages"/></td>
+    <td><img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/></td>
+    <td><img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages"/></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/></td>
-    <td><img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/></td>
+    <td><img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/></td>
+    <td><img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/></td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=RWtest9525&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=YashVishalDev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RWtest9525/RWtest9525/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RWtest9525/RWtest9525/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-activity.svg" alt="Recent Activity" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-activity.svg" alt="Recent Activity" width="100%"/>
 </div>
 
 <!--START_SECTION:activity-->
 _Activity will appear here after the first workflow run._
 <!--END_SECTION:activity-->
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-learning.svg" alt="Currently Learning" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-learning.svg" alt="Currently Learning" width="100%"/>
 </div>
 
 | Area | Focus |
@@ -158,10 +158,10 @@ _Activity will appear here after the first workflow run._
 | 📈 Marketing | Product growth & digital marketing |
 | 🧠 Full-Stack Development | Building complete, production-ready applications |
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-connect.svg" alt="Connect With Me" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-connect.svg" alt="Connect With Me" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/yash-vishal"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Vishal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -172,10 +172,10 @@ _Activity will appear here after the first workflow run._
 </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/divider.svg" alt="" width="100%"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/title-goals.svg" alt="GitHub Goals" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/title-goals.svg" alt="GitHub Goals" width="100%"/>
 </div>
 
 - 🚀 Build and ship more real-world projects
@@ -191,6 +191,6 @@ _Activity will appear here after the first workflow run._
 
 **If you find something useful here, feel free to ⭐ a repository.**
 
-<img src="https://raw.githubusercontent.com/RWtest9525/RWtest9525/main/assets/footer.svg" alt="Build, Learn, Improve, Ship, Repeat" width="100%"/>
+<img src="https://raw.githubusercontent.com/YashVishalDev/YashVishalDev/main/assets/footer.svg" alt="Build, Learn, Improve, Ship, Repeat" width="100%"/>
 
 </div>
